@@ -8,7 +8,7 @@ CICS CoursePlanner intends to be a smart tool to help empower students choose co
 3. Informed Decisions: Easy access to RateMyProfessor reviews for every course
 
 # Concept
-<img src="./assets/graph.png" width="400"/>
+<img src="./assets/graph-presentation.png" width="400"/>
 
 The project highly emphasizes algorithms with graph theory. We used the following process:
 1. Integrate with school systems to get course information
@@ -27,3 +27,4 @@ The project highly emphasizes algorithms with graph theory. We used the followin
 # Special Thanks
 - Spire API: https://spire-api.melanson.dev/
 - CICS Consultant: https://cics-consultant.herokuapp.com/html/fields.html (for course categories)
+<img src="./assets/graph.png" width="400"/>
