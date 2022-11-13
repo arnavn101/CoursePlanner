@@ -1,6 +1,10 @@
 # CoursePlanner
 CICS CoursePlanner intends to be a smart tool to help empower students choose courses geared towards their interests. 
 
+Profile Page                 |  Planner Page               
+:-------------------------:|:-------------------------:
+![](https://github.com/arnavn101/CoursePlanner/blob/main/assets/ProfilePage.png?raw=true)  |  ![](https://github.com/arnavn101/CoursePlanner/blob/main/assets/PlanningPage.png?raw=true)
+
 # Features
 
 1. Planning Ahead: Make sure you get the prerequites satisfied for future courses
