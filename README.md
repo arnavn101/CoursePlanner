@@ -27,4 +27,5 @@ The project highly emphasizes algorithms with graph theory. We used the followin
 # Special Thanks
 - Spire API: https://spire-api.melanson.dev/
 - CICS Consultant: https://cics-consultant.herokuapp.com/html/fields.html (for course categories)
+
 <img src="./assets/graph.png" width="400"/>
