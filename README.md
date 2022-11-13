@@ -1,6 +1,8 @@
 # CoursePlanner
 CICS CoursePlanner intends to be a smart tool to help empower students choose courses geared towards their interests. 
 
+View a live version of [CoursePlanner](https://bit.ly/cicscourseplan)
+
 # Features
 
 1. Planning Ahead: Make sure you get the prerequites satisfied for future courses
