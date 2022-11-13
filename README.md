@@ -1,10 +1,6 @@
 # CoursePlanner
 CICS CoursePlanner intends to be a smart tool to help empower students choose courses geared towards their interests. 
 
-Profile Page                 |  Planner Page               
-:-------------------------:|:-------------------------:
-![](https://github.com/arnavn101/CoursePlanner/blob/main/assets/ProfilePage.png?raw=true)  |  ![](https://github.com/arnavn101/CoursePlanner/blob/main/assets/PlanningPage.png?raw=true)
-
 # Features
 
 1. Planning Ahead: Make sure you get the prerequites satisfied for future courses
@@ -19,6 +15,10 @@ The project highly emphasizes algorithms with graph theory. We used the followin
 2. Build a network graph that represents pre-requsite to course mapping
 3. Interface with RateMyProfessor API to calculate course ratings
 4. And surely a lot of algos to develop an optimal course path!
+
+Profile Page                 |  Planner Page               
+:-------------------------:|:-------------------------:
+![](https://github.com/arnavn101/CoursePlanner/blob/main/assets/ProfilePage.png?raw=true)  |  ![](https://github.com/arnavn101/CoursePlanner/blob/main/assets/PlanningPage.png?raw=true)
 
 # Demo
 
