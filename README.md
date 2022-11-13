@@ -17,7 +17,8 @@ The project highly emphasizes algorithms with graph theory. We used the followin
 4. And surely a lot of algos to develop an optimal course path!
 
 # Demo
-<link>
+
+https://user-images.githubusercontent.com/33387859/201512354-740ddeca-8d79-4d7b-9683-a99b4442efb1.mov
 
 # Tech Stack
 <img src="./assets/react.png" title="React Frontend Website" width="380"/>
