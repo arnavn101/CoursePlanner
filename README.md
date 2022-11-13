@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/33387859/201512354-740ddeca-8d79-4d7b-
 
 # Tech Stack
 <img src="./assets/react.png" title="React Frontend Website" width="380"/>
-<img src=".//assets/fast-api.png" title="Fast API Python Backend" width="400"/>
+<img src=".//assets/fast-api.png" title="Fast API Python Backend" width="440"/>
 
 
 # Special Thanks
